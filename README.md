@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Nandish
-🔭 I’m currently working as an App Developer
+🔭 I’m currently working as a cloud engineer intern
 
 <!--
 **Nandish-Solanki/Nandish-Solanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
